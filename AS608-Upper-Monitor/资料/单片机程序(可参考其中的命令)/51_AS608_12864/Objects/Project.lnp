@@ -1,0 +1,9 @@
+".\Objects\main.obj",
+".\Objects\buzz.obj",
+".\Objects\key.obj",
+".\Objects\uart.obj",
+".\Objects\lcd12864.obj",
+".\Objects\FPM10A.obj",
+".\Objects\public.obj" 
+TO ".\Objects\Project" 
+PRINT(".\Listings\Project.m51") RAMSIZE(256) 
